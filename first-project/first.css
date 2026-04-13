@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(154, 154, 199);
+    display: flex;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+     margin: 102px 0px 0px 440px; 
+     padding-left: 10px;
+    
+}
+
+button {
+    border: 2px solid black;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.result {
+    margin-top: 15px;
+    font-weight: bold;
+}
